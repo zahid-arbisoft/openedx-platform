@@ -1,0 +1,18 @@
+## Architecture Decision Record
+
+### Decision
+Combine the LMS and CMS into a single headless REST API server.
+
+### Rationale
+Simplify our codebase, operations, and deployment.
+
+### Consequences
+- Reduced complexity
+- Simplified deployment
+- Improved maintainability
+
+### Approval
+Approved by [stakeholders]
+
+### Implementation
+- [Implementation details]
