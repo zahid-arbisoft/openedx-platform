@@ -1,0 +1,1 @@
+Add pytest to the list of dependencies
