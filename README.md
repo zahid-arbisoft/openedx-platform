@@ -1,0 +1,1 @@
+Update the README to use 'studio-sso-key' as the example client ID in the CMS SSO setup section.
